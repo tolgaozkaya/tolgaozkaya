@@ -3,16 +3,30 @@
 
 ## **Hi there, I'm [Tolga!](https://www.instagram.com/tolgaozkaya_/) :wave:** 
 
-<a href="www.linkedin.com/in/tolga-özkaya-028198208">
-<img height="50" src="img/linkedin.png">
+<a href="https://www.linkedin.com/in/tolga-özkaya-028198208/">
+ <img height="50" src="img/linkedin.png">
+ </a>
+ 
 <a href="mailto:tolgaozkaya.2002@gmail.com" target="_blank" rel="nofollow">
- <img height="50" alt="gmail" src="img/gmail.png" /></a>
-</a>
-</a>
+ <img height="50" alt="gmail" src="img/gmail.png" />
+ </a>
+ 
+<a href="https://app.patika.dev/tolgaozkaya">
+ <img height="29" src="https://app.patika.dev/staticFiles/newPatikaLogo.svg">
+ </a>
 
+<br>
+<br>
+ 
 Hi, I'm Tolga Özkaya, a passionate self-taught Software developer from Turkey.
+ 
+- I am Full Stack Developer.
 
+- I love writing JAVA, and building fun experiments with React.
 
+- Ask me about anything [here](https://github.com/tolgaozkaya/tolgaozkaya/issues).
+ 
+ 
 Languages and Tools:
 
 <img height="45" src="img/java.png">
