@@ -12,7 +12,7 @@
  </a>
  
 <a href="https://app.patika.dev/tolgaozkaya">
- <img height="29" src="https://app.patika.dev/staticFiles/newPatikaLogo.svg">
+ <img height="29" src="img/patika.png">
  </a>
 
 <br>
