@@ -12,7 +12,7 @@
  </a>
  
 <a href="https://app.patika.dev/tolgaozkaya">
- <img height="29" src="img/patika.png">
+ <img height="50" weight="50" src="img/patika.png">
  </a>
 
 <br>
